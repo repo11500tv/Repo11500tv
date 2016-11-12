@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodi.11500tv" name="11500tv a la Carta" version="1.0.7" provider-name="IDALYFA S.L.">
+  	<extension point="xbmc.addon.repository" name="11500tv a la Carta">
+		<info compressed="false">https://raw.github.com/repo11500tv/Repo11500tv/master/addons.xml</info>
+		<checksum>https://raw.github.com/repo11500tv/Repo11500tv/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/repo11500tv/Repo11500tv/master</datadir>
+	</extension>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>11500tv a la Carta</summary>
+		<description lang="en">Instala los Addons de 11500tv</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
