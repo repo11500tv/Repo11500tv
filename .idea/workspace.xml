@@ -120,8 +120,8 @@
       <recent name="X:\DATOS\Kodi\Repo11500tv\Repo11500tv\repository.kodi.11500tv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.repo_maker (1)">
-    <configuration default="false" name="repo_maker (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.repo_maker">
+    <configuration default="false" name="repo_maker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -276,11 +276,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.repo_maker (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.repo_maker" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.repo_maker (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.repo_maker" />
       </list>
     </recent_temporary>
   </component>
